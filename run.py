@@ -18,6 +18,7 @@ if __name__ == "__main__":
 # loader = unittest.TestLoader()
 # suite.addTests(historyweather_suite.history_suite())
 
+#test_suites
     HTMLReport.TestRunner(
         report_file_name="",
         title="历史天气测试",
