@@ -1,0 +1,32 @@
+[   INFO] [2018-06-24 18:06:04,032] [512] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:06:04,033] [2980] [Result.py(44)] - 开始测试： test_001province_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:06:04,041] [2980] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:06:04,148] [2980] [connectionpool.py(393)] - http://v.juhe.cn:80 "GET /historyWeather/province?key=927aaa6c2c2ff5f12d231d27c90df16f HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:06:04,150] [2980] [Result.py(92)] - 测试执行通过： test_001province_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:06:04,150] [2980] [Result.py(55)] - 测试结束： test_001province_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:06:04,150] [2980] [Result.py(57)] - 耗时： 0.1160950084915596
+[   INFO] [2018-06-24 18:06:04,150] [2980] [Result.py(44)] - 开始测试： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:06:04,153] [2980] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:06:04,274] [2980] [connectionpool.py(393)] - http://v.juhe.cn:80 "POST /historyWeather/citys HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:06:04,275] [2980] [Result.py(92)] - 测试执行通过： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:06:04,276] [2980] [Result.py(55)] - 测试结束： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:06:04,276] [2980] [Result.py(57)] - 耗时： 0.12488119418489453
+[   INFO] [2018-06-24 18:06:04,276] [2980] [Result.py(44)] - 开始测试： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:06:04,278] [2980] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:06:04,381] [2980] [connectionpool.py(393)] - http://v.juhe.cn:80 "POST /historyWeather/weather HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:06:04,382] [2980] [Result.py(92)] - 测试执行通过： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:06:04,382] [2980] [Result.py(55)] - 测试结束： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:06:04,382] [2980] [Result.py(57)] - 耗时： 0.1055427098943825
+[   INFO] [2018-06-24 18:06:04,382] [512] [HTMLReport.py(123)] - 
+Pass	test_001province_list (test_cases.test_histroyweather.testHistory)
+Pass	test_002citys_list (test_cases.test_histroyweather.testHistory)
+Pass	test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+
+[   INFO] [2018-06-24 18:06:04,384] [512] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00.350020
+共计执行用例数量：3
+执行成功用例数量：3
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0

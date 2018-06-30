@@ -1,0 +1,53 @@
+接口地址：http://v.juhe.cn/historyWeather/weather
+返回格式：json
+请求方式：http get/post
+请求示例：http://v.juhe.cn/historyWeather/weather?key=&city_id=1157&weather_date=2017-07-15
+接口备注：根据城市ID和日期查询历史天气信息，日期支持从2011-01-01开始
+API测试工具
+请求参数说明：
+
+名称	必填	类型	说明
+ 	key	是	string	申请的key，个人中心我的数据列表查看
+ 	city_id	是	string	城市地区ID
+ 	weather_date	是	string	日期,格式:2017-07-15，日期不能大于等于今日日期
+返回参数说明：
+
+名称	类型	说明
+ 	error_code	int	返回码
+ 	reason	string	返回说明
+ 	result	string	返回结果集
+ 	city_id	string	城市地区ID
+ 	city_name	string	城市地区名称
+ 	weather_date	string	天气日期
+ 	day_weather	string	白天天气
+ 	night_weather	string	夜间天气
+ 	day_temp	string	白天最高温度
+ 	night_temp	string	夜间最低温度
+ 	day_wind	string	白天风向
+ 	day_wind_comp	string	白天分力
+ 	night_wind	string	夜间风向
+ 	night_wind_comp	string	夜间风力
+ 	day_weather_id	string	白天天气标识
+ 	night_weather_id	string	夜间天气标识
+
+JSON返回示例：
+
+{
+    "reason": "查询成功",
+    "result": {
+        "city_id": "1157",
+        "city_name": "苏州",
+        "weather_date": "2017-07-15",
+        "day_weather": "多云",
+        "night_weather": "晴",
+        "day_temp": "33℃",
+        "night_temp": "25℃",
+        "day_wind": "无持续风向",
+        "day_wind_comp": "≤3级",
+        "night_wind": "无持续风向",
+        "night_wind_comp": "≤3级",
+        "day_weather_id": "01",
+        "night_weather_id": "00"
+    },
+    "error_code": 0
+}

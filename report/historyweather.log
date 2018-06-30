@@ -1,0 +1,165 @@
+[   INFO] [2018-06-24 16:58:48,111] [4284] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 17:03:11,653] [5444] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 17:03:11,656] [5444] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 17:04:19,560] [992] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 17:04:19,563] [992] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00.001000
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 17:05:39,345] [740] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 17:05:39,347] [740] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 17:57:51,476] [740] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 17:57:51,477] [740] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 17:59:23,847] [6704] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 17:59:23,848] [6704] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:01:15,924] [4712] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:01:15,925] [4712] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:01:24,588] [6248] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:01:24,589] [6248] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:02:09,899] [6708] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:02:09,899] [6708] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:03:06,072] [3064] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:03:06,073] [3064] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:03:24,005] [6620] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:03:48,308] [4444] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:03:48,309] [4444] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00.001000
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:04:07,154] [6200] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:04:07,155] [6200] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00.001000
+共计执行用例数量：0
+执行成功用例数量：0
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:04:49,644] [2056] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:04:49,645] [6920] [Result.py(44)] - 开始测试： test_001province_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:04:49,651] [6920] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:04:49,753] [6920] [connectionpool.py(393)] - http://v.juhe.cn:80 "GET /historyWeather/province?key=927aaa6c2c2ff5f12d231d27c90df16f HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:04:49,754] [6920] [Result.py(92)] - 测试执行通过： test_001province_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:04:49,754] [6920] [Result.py(55)] - 测试结束： test_001province_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:04:49,755] [6920] [Result.py(57)] - 耗时： 0.10880044444572284
+[   INFO] [2018-06-24 18:04:49,755] [6920] [Result.py(44)] - 开始测试： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:04:49,757] [6920] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:04:49,857] [6920] [connectionpool.py(393)] - http://v.juhe.cn:80 "POST /historyWeather/citys HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:04:49,859] [6920] [Result.py(92)] - 测试执行通过： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:04:49,859] [6920] [Result.py(55)] - 测试结束： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:04:49,859] [6920] [Result.py(57)] - 耗时： 0.10408231779101929
+[   INFO] [2018-06-24 18:04:49,859] [6920] [Result.py(44)] - 开始测试： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:04:49,861] [6920] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:04:49,965] [6920] [connectionpool.py(393)] - http://v.juhe.cn:80 "POST /historyWeather/weather HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:04:49,967] [6920] [Result.py(92)] - 测试执行通过： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:04:49,967] [6920] [Result.py(55)] - 测试结束： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:04:49,967] [6920] [Result.py(57)] - 耗时： 0.10718308279157607
+[   INFO] [2018-06-24 18:04:49,968] [2056] [HTMLReport.py(123)] - 
+Pass	test_001province_list (test_cases.test_histroyweather.testHistory)
+Pass	test_002citys_list (test_cases.test_histroyweather.testHistory)
+Pass	test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+
+[   INFO] [2018-06-24 18:04:49,977] [2056] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00.324019
+共计执行用例数量：3
+执行成功用例数量：3
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
+[   INFO] [2018-06-24 18:05:25,729] [676] [HTMLReport.py(94)] - 预计并发线程数：1
+[   INFO] [2018-06-24 18:05:25,729] [6968] [Result.py(44)] - 开始测试： test_001province_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:05:25,733] [6968] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:05:25,835] [6968] [connectionpool.py(393)] - http://v.juhe.cn:80 "GET /historyWeather/province?key=927aaa6c2c2ff5f12d231d27c90df16f HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:05:25,837] [6968] [Result.py(92)] - 测试执行通过： test_001province_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:05:25,837] [6968] [Result.py(55)] - 测试结束： test_001province_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:05:25,838] [6968] [Result.py(57)] - 耗时： 0.10765481327403555
+[   INFO] [2018-06-24 18:05:25,838] [6968] [Result.py(44)] - 开始测试： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:05:25,841] [6968] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:05:25,942] [6968] [connectionpool.py(393)] - http://v.juhe.cn:80 "POST /historyWeather/citys HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:05:25,943] [6968] [Result.py(92)] - 测试执行通过： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:05:25,943] [6968] [Result.py(55)] - 测试结束： test_002citys_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:05:25,944] [6968] [Result.py(57)] - 耗时： 0.10523822183906677
+[   INFO] [2018-06-24 18:05:25,944] [6968] [Result.py(44)] - 开始测试： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[  DEBUG] [2018-06-24 18:05:25,946] [6968] [connectionpool.py(205)] - Starting new HTTP connection (1): v.juhe.cn:80
+[  DEBUG] [2018-06-24 18:05:26,062] [6968] [connectionpool.py(393)] - http://v.juhe.cn:80 "POST /historyWeather/weather HTTP/1.1" 200 None
+[   INFO] [2018-06-24 18:05:26,063] [6968] [Result.py(92)] - 测试执行通过： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:05:26,064] [6968] [Result.py(55)] - 测试结束： test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+[   INFO] [2018-06-24 18:05:26,064] [6968] [Result.py(57)] - 耗时： 0.11955532416472267
+[   INFO] [2018-06-24 18:05:26,064] [676] [HTMLReport.py(123)] - 
+Pass	test_001province_list (test_cases.test_histroyweather.testHistory)
+Pass	test_002citys_list (test_cases.test_histroyweather.testHistory)
+Pass	test_003historyweather_list (test_cases.test_histroyweather.testHistory)
+
+[   INFO] [2018-06-24 18:05:26,066] [676] [HTMLReport.py(143)] - 
+测试结束！
+运行时间: 0:00:00.336019
+共计执行用例数量：3
+执行成功用例数量：3
+执行失败用例数量：0
+跳过执行用例数量：0
+产生异常用例数量：0
